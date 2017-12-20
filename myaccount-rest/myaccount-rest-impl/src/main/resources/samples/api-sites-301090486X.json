@@ -1,0 +1,34 @@
+{
+    "recordsets": [
+        [
+            {
+                "PremiseProviderId": 268805,
+                "wholesalerId": null,
+                "PremiseDiscriminator": 2,
+                "CoreSPID": "301090486X",
+                "BuildingName": "",
+                "BuildingNumber": "BRADFIELD COLLEGE-NEW SUPPLIES",
+                "ThoroughfareName": "IN BRADFIELD",
+                "Postcode": "RG76AU"
+            }
+        ]
+    ],
+    "recordset": [
+        {
+            "PremiseProviderId": 268805,
+            "wholesalerId": null,
+            "PremiseDiscriminator": 2,
+            "CoreSPID": "301090486X",
+            "BuildingName": "",
+            "BuildingNumber": "BRADFIELD COLLEGE-NEW SUPPLIES",
+            "ThoroughfareName": "IN BRADFIELD",
+            "Postcode": "RG76AU"
+        }
+    ],
+    "output": {},
+    "rowsAffected": [
+        1
+    ]
+}
+
+

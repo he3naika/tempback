@@ -1,0 +1,122 @@
+[
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-10-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-11-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-12-07T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-01-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-02-07T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-03-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-04-20T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-05-23T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-06-19T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-09-25T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-10-18T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-11-24T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  }
+]

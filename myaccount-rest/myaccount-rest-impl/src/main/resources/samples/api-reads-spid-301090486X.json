@@ -1,0 +1,1032 @@
+[
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-10-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-11-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-12-07T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-01-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-02-07T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-03-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-04-20T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-05-23T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-06-19T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-09-25T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-10-18T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "BYPASS_(With_MN)14224347",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-11-24T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14224347",
+    "Reading": 594
+  },
+  {
+    "MeterId": "Elster_Meters_V10008A154998",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-10-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "08A154998",
+    "Reading": 577
+  },
+  {
+    "MeterId": "Elster_Meters_V10008A154998",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-11-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "08A154998",
+    "Reading": 577
+  },
+  {
+    "MeterId": "Elster_Meters_V10008A154998",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-12-07T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "08A154998",
+    "Reading": 577
+  },
+  {
+    "MeterId": "Elster_Meters_V10008A154998",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-01-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "08A154998",
+    "Reading": 577
+  },
+  {
+    "MeterId": "Elster_Meters_V10008A154998",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-02-07T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "08A154998",
+    "Reading": 577
+  },
+  {
+    "MeterId": "Elster_Meters_V10008A154998",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-03-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "08A154998",
+    "Reading": 577
+  },
+  {
+    "MeterId": "Elster_Meters_V10008A154998",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-04-20T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "08A154998",
+    "Reading": 577
+  },
+  {
+    "MeterId": "Elster_Meters_V10008A154998",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-05-23T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "08A154998",
+    "Reading": 577
+  },
+  {
+    "MeterId": "Elster_Meters_V10008A154998",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-06-19T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "08A154998",
+    "Reading": 577
+  },
+  {
+    "MeterId": "Elster_Meters_V10008A154998",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-09-25T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "08A154998",
+    "Reading": 577
+  },
+  {
+    "MeterId": "Elster_Meters_V10008A154998",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-10-18T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "08A154998",
+    "Reading": 577
+  },
+  {
+    "MeterId": "Elster_Meters_V10008A154998",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-11-24T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "08A154998",
+    "Reading": 577
+  },
+  {
+    "MeterId": "Elster_Meters_V10006A097394",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-10-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "06A097394",
+    "Reading": 549
+  },
+  {
+    "MeterId": "Elster_Meters_V10006A097394",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-11-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "06A097394",
+    "Reading": 549
+  },
+  {
+    "MeterId": "Elster_Meters_V10006A097394",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-12-07T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "06A097394",
+    "Reading": 549
+  },
+  {
+    "MeterId": "Elster_Meters_V10006A097394",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-01-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "06A097394",
+    "Reading": 549
+  },
+  {
+    "MeterId": "Elster_Meters_V10006A097394",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-02-07T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "06A097394",
+    "Reading": 549
+  },
+  {
+    "MeterId": "Elster_Meters_V10006A097394",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-03-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "06A097394",
+    "Reading": 549
+  },
+  {
+    "MeterId": "Elster_Meters_V10006A097394",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-04-20T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "06A097394",
+    "Reading": 549
+  },
+  {
+    "MeterId": "Elster_Meters_V10006A097394",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-05-23T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "06A097394",
+    "Reading": 549
+  },
+  {
+    "MeterId": "Elster_Meters_V10006A097394",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-06-19T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "06A097394",
+    "Reading": 549
+  },
+  {
+    "MeterId": "Elster_Meters_V10006A097394",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-09-25T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "06A097394",
+    "Reading": 549
+  },
+  {
+    "MeterId": "Elster_Meters_V10006A097394",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-10-18T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "06A097394",
+    "Reading": 549
+  },
+  {
+    "MeterId": "Elster_Meters_V10006A097394",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-11-24T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "06A097394",
+    "Reading": 549
+  },
+  {
+    "MeterId": "Elster_Meters_V10015A016725",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-06-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "15A016725",
+    "Reading": 523
+  },
+  {
+    "MeterId": "Elster_Meters_V10015A016725",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-07-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "15A016725",
+    "Reading": 523
+  },
+  {
+    "MeterId": "Elster_Meters_V10015A016725",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-09-09T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "15A016725",
+    "Reading": 523
+  },
+  {
+    "MeterId": "Elster_Meters_V10015A016725",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-10-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "15A016725",
+    "Reading": 523
+  },
+  {
+    "MeterId": "Elster_Meters_V10015A016725",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-11-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "15A016725",
+    "Reading": 523
+  },
+  {
+    "MeterId": "Elster_Meters_V10015A016725",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-12-01T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "15A016725",
+    "Reading": 523
+  },
+  {
+    "MeterId": "Elster_Meters_V10015A016725",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-06-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "15A016725",
+    "Reading": 523
+  },
+  {
+    "MeterId": "Elster_Meters_V10015A016725",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-07-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "15A016725",
+    "Reading": 523
+  },
+  {
+    "MeterId": "Elster_Meters_V10015A016725",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-09-09T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "15A016725",
+    "Reading": 523
+  },
+  {
+    "MeterId": "Elster_Meters_V10015A016725",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-10-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "15A016725",
+    "Reading": 523
+  },
+  {
+    "MeterId": "Elster_Meters_V10015A016725",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-11-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "15A016725",
+    "Reading": 523
+  },
+  {
+    "MeterId": "Elster_Meters_V10015A016725",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-12-01T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "15A016725",
+    "Reading": 523
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M217588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-10-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M217588",
+    "Reading": 740
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M217588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-11-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M217588",
+    "Reading": 740
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M217588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-12-07T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M217588",
+    "Reading": 740
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M217588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-01-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M217588",
+    "Reading": 740
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M217588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-02-07T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M217588",
+    "Reading": 740
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M217588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-03-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M217588",
+    "Reading": 740
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M217588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-04-20T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M217588",
+    "Reading": 740
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M217588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-05-23T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M217588",
+    "Reading": 740
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M217588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-06-19T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M217588",
+    "Reading": 740
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M217588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-09-25T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M217588",
+    "Reading": 740
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M217588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-10-18T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M217588",
+    "Reading": 740
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M217588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-11-24T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M217588",
+    "Reading": 740
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M228283",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-07-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M228283",
+    "Reading": 728
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M228283",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-09-09T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M228283",
+    "Reading": 728
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M228283",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-10-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M228283",
+    "Reading": 728
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M228283",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-11-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M228283",
+    "Reading": 728
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M228283",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-12-07T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M228283",
+    "Reading": 728
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M228283",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-01-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M228283",
+    "Reading": 728
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M228283",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-03-08T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M228283",
+    "Reading": 728
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M228283",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-05-23T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M228283",
+    "Reading": 728
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M228283",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-06-19T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M228283",
+    "Reading": 728
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M228283",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-09-25T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M228283",
+    "Reading": 728
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M228283",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-10-18T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M228283",
+    "Reading": 728
+  },
+  {
+    "MeterId": "Elster_Meters_V21002M228283",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-11-23T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "02M228283",
+    "Reading": 728
+  },
+  {
+    "MeterId": "Elster_Meters_V10007A506512",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-09-09T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "07A506512",
+    "Reading": 718
+  },
+  {
+    "MeterId": "Elster_Meters_V10007A506512",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-10-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "07A506512",
+    "Reading": 718
+  },
+  {
+    "MeterId": "Elster_Meters_V10007A506512",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-11-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "07A506512",
+    "Reading": 718
+  },
+  {
+    "MeterId": "Elster_Meters_V10007A506512",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-12-07T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "07A506512",
+    "Reading": 718
+  },
+  {
+    "MeterId": "Elster_Meters_V10007A506512",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-01-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "07A506512",
+    "Reading": 718
+  },
+  {
+    "MeterId": "Elster_Meters_V10007A506512",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-03-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "07A506512",
+    "Reading": 718
+  },
+  {
+    "MeterId": "Elster_Meters_V10007A506512",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-04-20T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "07A506512",
+    "Reading": 718
+  },
+  {
+    "MeterId": "Elster_Meters_V10007A506512",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-06-19T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "07A506512",
+    "Reading": 718
+  },
+  {
+    "MeterId": "Elster_Meters_V10007A506512",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-09-25T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "07A506512",
+    "Reading": 718
+  },
+  {
+    "MeterId": "Elster_Meters_V10007A506512",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-10-18T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "07A506512",
+    "Reading": 718
+  },
+  {
+    "MeterId": "Elster_Meters_V10007A506512",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-11-24T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "07A506512",
+    "Reading": 718
+  },
+  {
+    "MeterId": "Sensus_Meters_Iperl110257834",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2015-08-11T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "110257834",
+    "Reading": 707
+  },
+  {
+    "MeterId": "Sensus_Meters_Iperl110257834",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-01-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "110257834",
+    "Reading": 707
+  },
+  {
+    "MeterId": "Sensus_Meters_Iperl110257834",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-03-08T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "110257834",
+    "Reading": 707
+  },
+  {
+    "MeterId": "Sensus_Meters_Iperl110257834",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-05-23T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "110257834",
+    "Reading": 707
+  },
+  {
+    "MeterId": "Sensus_Meters_Iperl110257834",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-06-19T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "110257834",
+    "Reading": 707
+  },
+  {
+    "MeterId": "Sensus_Meters_Iperl110257834",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-09-25T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "110257834",
+    "Reading": 707
+  },
+  {
+    "MeterId": "Sensus_Meters_Iperl110257834",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-10-18T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "110257834",
+    "Reading": 707
+  },
+  {
+    "MeterId": "Sensus_Meters_Iperl110257834",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-11-24T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "110257834",
+    "Reading": 707
+  },
+  {
+    "MeterId": "Sensus_Meters_Meitwin_Mn_&_Byp14747588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-10-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14747588",
+    "Reading": 680
+  },
+  {
+    "MeterId": "Sensus_Meters_Meitwin_Mn_&_Byp14747588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-11-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14747588",
+    "Reading": 680
+  },
+  {
+    "MeterId": "Sensus_Meters_Meitwin_Mn_&_Byp14747588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2016-12-07T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14747588",
+    "Reading": 680
+  },
+  {
+    "MeterId": "Sensus_Meters_Meitwin_Mn_&_Byp14747588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-01-10T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14747588",
+    "Reading": 680
+  },
+  {
+    "MeterId": "Sensus_Meters_Meitwin_Mn_&_Byp14747588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-02-07T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14747588",
+    "Reading": 680
+  },
+  {
+    "MeterId": "Sensus_Meters_Meitwin_Mn_&_Byp14747588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-03-08T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14747588",
+    "Reading": 680
+  },
+  {
+    "MeterId": "Sensus_Meters_Meitwin_Mn_&_Byp14747588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-04-20T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14747588",
+    "Reading": 680
+  },
+  {
+    "MeterId": "Sensus_Meters_Meitwin_Mn_&_Byp14747588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-05-23T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14747588",
+    "Reading": 680
+  },
+  {
+    "MeterId": "Sensus_Meters_Meitwin_Mn_&_Byp14747588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-06-19T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14747588",
+    "Reading": 680
+  },
+  {
+    "MeterId": "Sensus_Meters_Meitwin_Mn_&_Byp14747588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-09-25T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14747588",
+    "Reading": 680
+  },
+  {
+    "MeterId": "Sensus_Meters_Meitwin_Mn_&_Byp14747588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-10-18T00:00:00.000Z",
+    "RolloverIndicator": "0",
+    "RolloverFlag": "0",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14747588",
+    "Reading": 680
+  },
+  {
+    "MeterId": "Sensus_Meters_Meitwin_Mn_&_Byp14747588",
+    "CoreSPID": "301090486X",
+    "MeterReadDate": "2017-11-24T00:00:00.000Z",
+    "RolloverIndicator": "",
+    "RolloverFlag": "",
+    "ApprovedForBilling": true,
+    "MeterSerial": "14747588",
+    "Reading": 680
+  }
+]
