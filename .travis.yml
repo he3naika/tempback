@@ -17,7 +17,7 @@ branches:
 
 notifications: # set notification options
   email:
-    recipients:
+#    recipients:
     - d.mikhailouski@godeltech.com
-    on_success: always
-    on_failure: always
+#    on_success: always
+#    on_failure: always
