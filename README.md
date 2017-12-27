@@ -33,3 +33,6 @@ In order to open description of API, please, use the next link http://localhost:
 
 
 Big pull to test PULL REQUEST
+#1
+#2
+#3
