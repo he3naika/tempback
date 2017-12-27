@@ -30,3 +30,6 @@ Point your web browser at http://localhost:8080/api/state to display the state p
 ![demo](https://image.prntscr.com/image/8BKiSN7FTie0MHP5-cgEiA.png)
 
 In order to open description of API, please, use the next link http://localhost:8080/api/swagger-ui.html
+
+
+Big pull to test PULL REQUEST
