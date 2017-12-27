@@ -1,8 +1,23 @@
 language: java
-sudo: false
-mvn test -B
+before_script:
+ - echo "Starting build"
+script:
+ - mvn test -B
+after_script:
+ - echo "Script finished"
+after_success:
+ - echo "Build was successful. $TRAVIS_TEST_RESULT"
+after_failure:
+ - echo "Build was failed"
 
 # blocklist
 branches:
   except:
   - master
+
+notifications: # set notification options
+  email:
+#    recipients:
+    - d.mikhailouski@godeltech.com
+#    on_success: always
+#    on_failure: always
