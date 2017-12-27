@@ -1,8 +1,35 @@
-language: java
-sudo: false
-mvn test -B
+#language: java
+#
+#after_script: # here's a build step block
+#- echo "We can put normal shell commands here"
+#- echo "more shell commands here"
+#
+notifications: # set notification options
+  email:
+    recipients:
+      - d.mikhailouski@godeltech.com
+    # change is when the repo status goes from pass to fail or vice versa
+    on_success: change
+    on_failure: always|change
 
 # blocklist
 branches:
   except:
   - master
+#
+#
+#sudo: false
+#mvn test -B
+
+
+language: java
+before_script:
+ - echo "Starting build"
+script:
+ - mvn test -B
+after_script:
+ - echo "Script finished"
+after_success:
+ - echo "Build was successful. $TRAVIS_TEST_RESULT"
+after_failure:
+ - echo "Build was failed"
