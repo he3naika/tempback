@@ -54,8 +54,8 @@ public class IdentityExternalApiServiceImplITTest {
 
         // assert
         assertNotNull(result);
-//        assertEquals(response, result);
-        assertEquals(response, null);
+        assertEquals(response, result);
+//        assertEquals(response, null);
 
         // verify
         final InOrder inOrder = inOrder(instance, httpClient);
