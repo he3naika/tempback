@@ -44,3 +44,7 @@ hello
 #7
 #8
 #9
+
+[![BCH compliance](https://bettercodehub.com/edge/badge/he3naika/tempback?branch=master)](https://bettercodehub.com/)
+
+<img src='https://bettercodehub.com/edge/badge/he3naika/tempback?branch=master'>
